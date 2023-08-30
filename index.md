@@ -18,10 +18,10 @@ Syntax highlighted code block
 - CS193 is a easy-to-follow class
 - It teaches us useful tips and software to use
 - The undergrad professors are really good teachers
-1. Numbered
-2. List
+1. I get to learn how to use Github!
+2. Knowing how to use the terminal will benefit me greatly for future CS classes and later.
 
-**Bold** and _Italic_ and `Code` text
+**Thank you** and _Have a nice day_ and `Test` text
 
 [Link](url) and ![Image](src)
 ```
